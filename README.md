@@ -4,17 +4,17 @@
 
 I enjoy building practical applications, interactive systems, games, web projects, and automation tools.
 
-My main focus is **Python Development, Web Development, Roblox/Luau, Google Apps Script, and AI-assisted development**.
+My main focus is **Python Development, Web Development, Roblox/Luau, Automation, and AI-assisted development**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Interested in Software Development & Technology
-- 🐍 Building projects with Python
+- 🐍 Building practical applications with Python
 - 🌐 Developing web projects with HTML, CSS & JavaScript
-- 🎮 Creating game systems with Roblox Studio & Luau
-- ⚙️ Building automation tools with Google Apps Script
+- 🎮 Creating interactive systems with Roblox/LUA
+- ⚙️ Building automation tools and practical solutions
 - 🤖 Exploring AI integration and AI-assisted development
 - 📊 Interested in data processing and workflow automation
 - 🚀 Continuously learning and building new projects
@@ -31,32 +31,30 @@ My main focus is **Python Development, Web Development, Roblox/Luau, Google Apps
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Tools & Platforms
+### Development Areas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-02569B?style=for-the-badge)
+![Game Development](https://img.shields.io/badge/Game_Development-6A5ACD?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-2E8B57?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🐍 Python Projects
-Projects focused on Python programming, automation, data processing, and practical applications.
+## 🐍 Python Projects
 
-### 🎮 Roblox Game Development
-Game development projects featuring vehicle systems, racing mechanics, teleportation, NPC systems, GUI, timers, and interactive game mechanics.
+### 🧮 PyCraft Smart Calculator
 
-### 🌐 Web Development
-Interactive websites and web applications built using HTML, CSS, and JavaScript.
+A simple and interactive calculator application built with Python.
 
-### ⚙️ Automation Systems
-Tools designed to automate workflows, process information, and manage data efficiently.
+**Key Features:**
+- Addition, subtraction, multiplication, and division
+- Input validation
+- Division-by-zero protection
+- Simple and interactive interface
 
-### 🤖 AI Projects
-Experiments and applications exploring AI integration, automation, and AI-assisted development.
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/idwanjefri/PyCraft-Smart-Calculator)
 
 ---
 
@@ -65,16 +63,37 @@ Experiments and applications exploring AI integration, automation, and AI-assist
 - Python Development
 - JavaScript
 - Web Development
-- Roblox / Luau
+- Roblox / LUA
 - APIs
 - Automation
 - Databases
 - Artificial Intelligence
+
+---
+
+## 🗺️ Development Journey
+
+```text
+Programming Fundamentals
+        ↓
+Python Development
+        ↓
+Web Development
+        ↓
+Game Development
+        ↓
+Automation & APIs
+        ↓
+Database & Backend
+        ↓
+AI Integration
+```
+
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating and exploring projects related to:
+I'm interested in exploring and collaborating on projects related to:
 
 **Software Development • Python • Web Development • Game Development • Automation • AI**
 
