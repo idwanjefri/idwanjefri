@@ -1,6 +1,6 @@
 # Hi, I'm Idwan 👋
 
-### Software Developer | Python • Web • Roblox/Luau • Automation
+### Software Developer | Python • Web • Roblox/LUA • Automation
 
 I enjoy building practical applications, interactive systems, games, web projects, and automation tools.
 
